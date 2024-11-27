@@ -48,31 +48,23 @@ src
 
 Clone this repository:
 
-bash
-
-git clone https://github.com/your-repo/rbac-system
+bash - git clone https://github.com/your-repo/rbac-system
 
 
 Navigate to the project directory
 
-bash
-
-cd rbac-system
+bash - cd rbac-system
 
 
 Install dependencies
 
-bash
-
-npm install
+bash - npm install
 
 
-Run the application
+Run the application 
 
-bash
-
-npm run dev
-
+bash - npm run dev
+ 
 
 Usage
 
