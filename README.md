@@ -47,22 +47,30 @@ src
 └── main.jsx               # Root rendering and context setup
 
 Clone this repository:
+
 bash
+
 git clone https://github.com/your-repo/rbac-system
 
 
 Navigate to the project directory
+
 bash
+
 cd rbac-system
 
 
 Install dependencies
+
 bash
+
 npm install
 
 
 Run the application
+
 bash
+
 npm run dev
 
 
