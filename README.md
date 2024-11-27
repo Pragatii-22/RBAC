@@ -16,7 +16,7 @@ Tech Stack
   Styling: CSS
   Development Tools: Vite for fast build and development
 
-Project Structure
+Project Structure 
 src
 ├── components
 │   ├── AddUsers.jsx       # Manage users
@@ -45,6 +45,9 @@ bash
 npm run dev
 
 Usage
+
   Admin Access: Full control over all features, including user and role management.
+
   Editor Access: Restricted access to modify specific content.
+
   Viewer Access: Read-only access to certain components.
