@@ -1,6 +1,8 @@
 # RBAC
 This is a Role Based Access control application
+
   Overview
+
     This RBAC system is a secure, flexible, and scalable web application designed to manage user roles and permissions effectively. Built with React, it demonstrates a modern approach to managing access levels 
     within an application, ensuring users have only the permissions necessary for their roles.
 
@@ -27,7 +29,7 @@ Project Structure
 src
 ├── components
 
-│   ├── AddUsers.jsx       # Manage users
+|  ├── AddUsers.jsx       # Manage users
 
 │   ├── Editor.jsx         # Role-specific editing panel
 
@@ -35,8 +37,11 @@ src
 
 ├── context
 │   └── userContext.js     # Role and permissions management
+
 ├── App.jsx                # Main application logic
+
 ├── index.css              # Global styles
+
 └── main.jsx               # Root rendering and context setup
 
 Clone this repository:
