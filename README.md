@@ -6,22 +6,33 @@ This is a Role Based Access control application
 
 Features
        Dynamic Role Management: Create, update, or delete user roles.
+
        Granular Permissions: Assign specific permissions to each role.
+
        Context API Integration: Ensures state management across components.
+
        Component Isolation: Role-specific views and features.
+
        Responsive Design: Works seamlessly across devices.
 
 Tech Stack
   Frontend: React, Context API
+
   Styling: CSS
+
   Development Tools: Vite for fast build and development
 
 Project Structure 
+
 src
 ├── components
+
 │   ├── AddUsers.jsx       # Manage users
+
 │   ├── Editor.jsx         # Role-specific editing panel
+
 │   └── UserList.jsx       # List of users and roles
+
 ├── context
 │   └── userContext.js     # Role and permissions management
 ├── App.jsx                # Main application logic
