@@ -1,0 +1,42 @@
+{
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": "6e18",
+      "username": "Dev person",
+      "email": "dev@swiftype.com",
+      "role": "Dev",
+      "status": "Inactive"
+    },
+    {
+      "id": "bb74",
+      "username": "Edit Person",
+      "email": "edit@swiftype.com",
+      "role": "Edit",
+      "status": "Active"
+    },
+    {
+      "id": "a1c0",
+      "username": "Analyst Person",
+      "email": "analyst@swiftype.com",
+      "role": "Analyst",
+      "status": "Inactive"
+    },
+    {
+      "id": "74ed",
+      "username": "Finance Person",
+      "email": "finance@swiftype.com",
+      "role": "Finance",
+      "status": "Active"
+    },
+    {
+      "id": "7833",
+      "username": "Marketing Role",
+      "email": "market@swiftype.com",
+      "role": "Market",
+      "status": "Active"
+    }
+  ]
+}
